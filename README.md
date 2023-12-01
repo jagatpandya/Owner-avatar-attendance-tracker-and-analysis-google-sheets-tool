@@ -1,6 +1,5 @@
 # Attendance Tracker and Analysis Tool
 This attendance tracker, built using Google Sheets, is designed to make attendance tracking straightforward. It helps you keep an eye on your attendance percentage, making sure you're in line with the common 75% attendance requirement.
-
 ![Screenshot](attendance-tracker.gif?raw=true)
 
 ### What it Does?
